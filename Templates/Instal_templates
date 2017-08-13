@@ -1,0 +1,17 @@
+************************** Instalación de templates ************************
+
+Para instalar los templates se seguirá los siguientes pasos:
+
+Remplazar los siguientes archivos en el directorio /imagenes
+
+  - ALIM4451.jpg
+  - baner_ref.gif
+  
+ Remplazar el archivo del directorio principal "stylesindex.css" por el nuevo.
+ 
+ 
+ ***************************** Creación de templates ************************
+ 
+ - Modificar los colores en hexadecimal del fichero "stylesindex.css"
+ - Modificar las imágenes siguientes mediante photoshop o un programa de 
+ edición "ALIM4451.jpg" y "baner_ref.gif"
